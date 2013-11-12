@@ -1,0 +1,25 @@
+﻿* html .u1_mouseOver {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Chart_2_files/button_u1_mouseOver.png");
+}
+
+* html .u1_disabled {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Chart_2_files/button_u1_disabled.png");
+}
+
+* html .u1_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Chart_2_files/button_u1_normal.png");
+}
+
+* html .u4_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Chart_2_files/u4_normal.png");
+}
+
+* html .u6_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Chart_2_files/u6_normal.png");
+}
+
